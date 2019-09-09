@@ -104,17 +104,6 @@ Be prepared to answer questions such as:
      - [ ] include exported visualizations from analysis
      - [ ] Target the presentation to a _non-technical audience_, avoid jargon
      - [ ] Take no more than 5 minutes to present
- 
-## Specifics:
-### This project is in groups
-- Group A: Joey Mathias + Michael Mbaba
-- Group B: Jalal Kiani + Aneesh Kodali
-- Group C: Nasrin Khansari + Brad Sawyer
-- Group D: Yashar Mansouri + Andrea Koltai
-- Group E: Nathan Venos + Max Tingle
-- Group F: Sorin Luca + Karin Kharina
-- Group G: Phil Busko + Alyssa Liguori
-- Group H: Sharon Kwak + Daniel Torres
 
 ### Timeline
 
